@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+body {
+  background-image: url('./images/redes.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
